@@ -66,7 +66,7 @@ export const Game = () => {
     }
   }, [waiting]);
 
-  console.log("RENDERING Game.js");
+  //console.log("RENDERING Game.js");
 
   return (
     <div>

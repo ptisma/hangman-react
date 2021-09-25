@@ -5,7 +5,7 @@ import HangmanContext from "./HangmanContext";
 const Leaderboard = ({ scores }) => {
   const [state] = useContext(HangmanContext);
 
-  console.log("RENDERING Leaderboard.js");
+  //console.log("RENDERING Leaderboard.js");
 
   return (
     <div>
